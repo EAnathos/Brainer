@@ -84,7 +84,7 @@ The configuration allow mentioning:
   server hostname will be "localhost" with the default MongoDb port (27017) and no credential. 
   The database used will be "brainers_db" and the collection will be "questions". All sub-options are optional.
   
-Examples of different configuration files are given in the `docs/configurationSamples` directory.
+Examples of different configuration files are given in the `doc/configurationSamples` directory.
 
 ### Launching Program
 
